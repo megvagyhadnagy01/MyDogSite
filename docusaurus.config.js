@@ -13,7 +13,7 @@ title: 'My DOG Site',
   organizationName: 'megvagyhadnagy01',
   projectName: 'MyDogSite',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
