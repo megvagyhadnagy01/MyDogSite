@@ -15,6 +15,7 @@ title: 'My DOG Site',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -158,7 +159,7 @@ themes: ['docusaurus-theme-openapi-docs'],
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} MyDogSite by megvagyhadnagy01`,
       },
       prism: {
         theme: prismThemes.github,

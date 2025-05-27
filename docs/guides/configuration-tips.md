@@ -5,5 +5,5 @@ sidebar_position: 2
 
 # Konfigurációs Tippek
 
-Hasznos tippek a konfigurációhoz.
+Hasznos tippek a konfigurációhoz. :D
 
