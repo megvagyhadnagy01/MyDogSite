@@ -3,19 +3,18 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My DOG Site',
+title: 'My DOG Site',
   tagline: 'Dinosaurs and me, we are cool',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://megvagyhadnagy01.github.io',
+  baseUrl: '/MyDogSite/',
 
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
+  organizationName: 'megvagyhadnagy01',
+  projectName: 'MyDogSite',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
